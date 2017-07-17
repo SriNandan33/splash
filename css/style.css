@@ -1,0 +1,51 @@
+html,body{
+	font-family: 'Lobster', cursive;
+	background:url('../img/bg.jpg') no-repeat center center fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size: cover;
+	height: 100%
+}
+.container-fluid{
+	height: 100%;
+}
+.container{
+	background-color: rgba(0,0,0,0.7);
+	max-width: 800px;
+	margin-top: 10%;
+	padding:50px 0px 0px 50px;
+	border-radius: 10px;
+	color:white;
+	min-height: 50%;
+}
+.row span{
+	font-size: 40px;
+    color: #F6BB42;
+}
+.row h1{
+	font-size: 50px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.description{
+	font-size: 25px;
+}
+.social-icons{
+	padding-top:30px;
+	font-size: 20px;
+}
+.social-icons ul{
+	padding: 0px;
+	list-style-type: none;
+}
+.social-icons ul li{
+	display: inline;
+	margin-right: 10px;
+}
+.social-icons ul li a{
+	color: white;
+}
+.box{
+	border: 1px dotted red;
+}
