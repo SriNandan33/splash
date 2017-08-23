@@ -46,6 +46,20 @@ html,body{
 .social-icons ul li a{
 	color: white;
 }
+.btn-resume,
+.btn-resume:active,
+.btn-resume:focus,
+.btn-resume:visited
+ {
+    color: #fff;
+    background-color: #F6BB42;
+    background-color:  #F6BB42;
+    border-color:  #F6BB42;
+}
+.btn-resume:hover{
+	color:#fff;
+	background-color: #F6BB42;
+}
 .box{
 	border: 1px dotted red;
 }
