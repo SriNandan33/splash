@@ -21,7 +21,7 @@ html,body{
 }
 .row span{
 	font-size: 40px;
-    color: #F6BB42;
+    color: #dd0f43;
 }
 .row h1{
 	font-size: 50px;
@@ -52,13 +52,13 @@ html,body{
 .btn-resume:visited
  {
     color: #fff;
-    background-color: #F6BB42;
-    background-color:  #F6BB42;
-    border-color:  #F6BB42;
+    background-color: #dd0f43;
+    background-color:  #dd0f43;
+    border-color:  #dd0f43;
 }
 .btn-resume:hover{
 	color:#fff;
-	background-color: #F6BB42;
+	background-color: #dd0f43;
 }
 .box{
 	border: 1px dotted red;
